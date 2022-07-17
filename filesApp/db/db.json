@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "title": "Coronavirus disease 2019",
+        "duration": "5 days to chronic",
+        "deaths": "6,368,000"
+    },
+    {
+        "id": "2",
+        "title": "Ebola virus disease",
+        "duration": "21 days",
+        "deaths": "50,000"
+    },
+    {
+        "id": "3",
+        "title": "anthrax",
+        "duration": "14 days",
+        "deaths": "150,000"
+    },
+    {
+        "title": "Monkey feaver",
+        "duration": "14 days",
+        "deaths": "25,000",
+        "id": "e8dff7d1-5620-4a55-a90b-2215066c44ff"
+    },
+    {
+        "title": "Monkey feaver",
+        "duration": "14 days",
+        "deaths": "25,000",
+        "id": "276045ca-a7f7-4bce-9aa1-f06a3c7cff0e"
+    }
+]
